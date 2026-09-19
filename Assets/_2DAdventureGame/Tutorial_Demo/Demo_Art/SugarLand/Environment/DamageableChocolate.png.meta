@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 42b52eba867b70c41a022d62b0347606
+<<<<<<< HEAD
 TextureImporter:
   internalIDToNameTable: []
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Adventure Game: Robot Repair'
+  packageVersion: 2.0.0
+  assetPath: Assets/_2DAdventureGame/Tutorial_Demo/Demo_Art/SugarLand/Environment/DamageableChocolate.png
+  uploadId: 832758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3178694664596937291
+    second: DamageableChocolate_0
+>>>>>>> 28400ce (Коміт Лаб2)
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,7 +123,33 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites: []
+=======
+    sprites:
+    - serializedVersion: 2
+      name: DamageableChocolate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4adabcb4fdfc1c20800000000000000
+      internalID: 3178694664596937291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> 28400ce (Коміт Лаб2)
     outline: []
     customData: 
     physicsShape: []
@@ -128,6 +169,7 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
 AssetOrigin:
   serializedVersion: 1
   productId: 271239
@@ -135,3 +177,5 @@ AssetOrigin:
   packageVersion: 2.0.0
   assetPath: Assets/_2DAdventureGame/Tutorial_Demo/Demo_Art/SugarLand/Environment/DamageableChocolate.png
   uploadId: 832758
+=======
+>>>>>>> 28400ce (Коміт Лаб2)

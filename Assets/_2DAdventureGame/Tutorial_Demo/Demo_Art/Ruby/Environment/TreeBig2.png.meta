@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 65b74d157d8ed5b49a6ccf7882b05616
+<<<<<<< HEAD
 TextureImporter:
   internalIDToNameTable: []
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Adventure Game: Robot Repair'
+  packageVersion: 2.0.0
+  assetPath: Assets/_2DAdventureGame/Tutorial_Demo/Demo_Art/Ruby/Environment/TreeBig2.png
+  uploadId: 832758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1179875295646925078
+    second: TreeBig2_0
+>>>>>>> 28400ce (Коміт Лаб2)
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,7 +123,33 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites: []
+=======
+    sprites:
+    - serializedVersion: 2
+      name: TreeBig2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 281
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6114b448452cf5010800000000000000
+      internalID: 1179875295646925078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> 28400ce (Коміт Лаб2)
     outline: []
     customData: 
     physicsShape: []
@@ -128,6 +169,7 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
 AssetOrigin:
   serializedVersion: 1
   productId: 271239
@@ -135,3 +177,5 @@ AssetOrigin:
   packageVersion: 2.0.0
   assetPath: Assets/_2DAdventureGame/Tutorial_Demo/Demo_Art/Ruby/Environment/TreeBig2.png
   uploadId: 832758
+=======
+>>>>>>> 28400ce (Коміт Лаб2)

@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 4fb4eb60cbde78c44a0c63c8b475cd9f
+<<<<<<< HEAD
 TextureImporter:
   internalIDToNameTable: []
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Adventure Game: Robot Repair'
+  packageVersion: 2.0.0
+  assetPath: Assets/_2DAdventureGame/Art/Ducko/Environmnent/FloorGrass.png
+  uploadId: 832758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7768533517621155963
+    second: FloorGrass_0
+>>>>>>> 28400ce (Коміт Лаб2)
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +136,33 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites: []
+=======
+    sprites:
+    - serializedVersion: 2
+      name: FloorGrass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78568723106fcb60800000000000000
+      internalID: 7768533517621155963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> 28400ce (Коміт Лаб2)
     outline: []
     customData: 
     physicsShape: []
@@ -141,6 +182,7 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
 AssetOrigin:
   serializedVersion: 1
   productId: 271239
@@ -148,3 +190,5 @@ AssetOrigin:
   packageVersion: 2.0.0
   assetPath: Assets/_2DAdventureGame/Art/Ducko/Environmnent/FloorGrass.png
   uploadId: 832758
+=======
+>>>>>>> 28400ce (Коміт Лаб2)
